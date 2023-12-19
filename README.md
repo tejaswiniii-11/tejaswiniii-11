@@ -6,7 +6,7 @@
 
         
 <body>
-    <h1>Profile Page</h1>
+   
     <p>Profile Views: <span id="profile-view-count">0</span></p>
     <button id="increment-button">Increment View Count</button>
 </body>
