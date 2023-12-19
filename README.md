@@ -5,11 +5,7 @@
 
 
         
-<body>
-   
-    <p>Profile Views: <span id="profile-view-count">0</span></p>
-    <button id="increment-button">Increment View Count</button>
-</body>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaswiniii-11&label=Profile%20views&color=0e75b6&style=flat" alt="tejaswiniii-11" /> </p>
