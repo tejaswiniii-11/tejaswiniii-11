@@ -3,7 +3,7 @@
 <img align="right" alt="Keep Coding!" width="400" src="https://imgs.search.brave.com/CKI21v0kbp52ioPzOINSUh87LRkMTrN2Nv-8PN8E5Ic/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif">
 
 <body>
-    <h1>Profile Page</h1>
+    <h3>Like Wi-Fi in a coffee shop, you can always catch a signal with me—strong, reliable, and ready for a good connection!</h3>
     <p>Profile Views: <span id="profile-view-count">0</span></p>
     <button id="increment-button">Increment View Count</button>
 </body>
