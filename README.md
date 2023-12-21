@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaswiniii-11" alt="tejaswiniii-11" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS & NodeJS**
+- 🌱 I’m currently learning **Datastructures & Algorithms**
 
 - 👯 I’m looking to collaborate on **ML Model Development**
 
