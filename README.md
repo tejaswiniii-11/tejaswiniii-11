@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **ML Model Development**
 
-- 📫 Let's Connect! **tejaswinitodkar11@gmail.com**
+- 📫 Let's Connect! **tejaswinitodkar0311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
