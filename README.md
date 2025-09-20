@@ -2,8 +2,7 @@
 
 ---- 
 
-⚡️ A little about me
-I'm a developer with a passion to learn and contribute. When I'm not coding, you can find me watching Anime and K-dramas or reading webtoons or eating tasty food >o<!.
+⚡️ I'm a developer with a passion to learn and contribute. When I'm not coding, you can find me watching Anime and K-dramas or reading webtoons or eating tasty food >o<!.
 
 <body>
     <br>
