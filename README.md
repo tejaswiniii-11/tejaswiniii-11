@@ -1,41 +1,27 @@
-<h1 align="center">Hello👋 fellow byte enthusiasts! Ready to rock some lines of brilliance? This is Tejaswini Todkar!🚀</h1>
-<h4 align="center">A Coding Nomad✨, Roaming in the Realm of Programming & Always in Quest of Knowledge!📚</h4>
+Hi there, I'm Tejaswini Todkar 👋
+⚡️ A little about me
+I'm a developer with a passion to learn and contribute. When I'm not coding, you can find me watching Anime and K-dramas or reading webtoons!.
 
-
-<body>
-    <br>
-    <p>Like Wi-Fi in a coffee shop, you can always catch a signal with me - strong, reliable, and ready for a good connection!😉</p>
-    <br>
-    <p><span id="profile-view-count"></span></p>
-    <button id="increment-button"></button>
-</body>
-        
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaswiniii-11&label=Profile%20views&color=0e75b6&style=flat" alt="tejaswiniii-11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaswiniii-11" alt="tejaswiniii-11" /></a> </p>
-
-- 🌱 I’m currently learning **Datastructures & Algorithms**
-
-- 👯 I’m looking to collaborate on **ML Model Development**
-
-- 📫 Let's Connect! **tejaswinitodkar0311@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tejaswini-todkar-a120b2232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tejaswini-todkar-a120b2232" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/tejaswini114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tejaswini114" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/tejaswiniii_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tejaswiniii_11/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tejaswinid4f5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tejaswinid4f5/" height="30" width="40" /></a>
+📈 GitHub Stats
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dgotham%26hide%3Dprs,issues,contribs%26hide_rank%3Dtrue" alt="Your GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaswiniii-11&show_icons=true&locale=en&layout=compact" alt="tejaswiniii-11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaswiniii-11&show_icons=true&locale=en" alt="tejaswiniii-11" /></p>
+🎨 My Anime Vibe
+<p align="center">
+<img src="https://www.google.com/search?q=https://c4.wallpaperflare.com/wallpaper/486/467/754/anime-anime-girls-digital-art-artwork-hd-wallpaper-preview.jpg" alt="Anime Art" width="400"/>
+<img src="https://www.google.com/search?q=https://c4.wallpaperflare.com/wallpaper/866/651/276/anime-your-name-kimi-no-na-wa-taki-tachibana-mitsuha-miyamizu-hd-wallpaper-preview.jpg" alt="Your Name" width="400"/>
+<br>
+<br>
+<i>Feel free to replace these with your own favorite anime images!</i>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswiniii-11&" alt="tejaswiniii-11" /></p>
+🌱 I'm always learning
+I'm currently focused on improving my skills in [e.g., machine learning, cloud computing, frontend performance optimization].
+
+📫 Let's connect!
+LinkedIn: https://www.linkedin.com/in/tejaswini-todkar-a120b2232/
+
+Email: tejaswinitodkar0311@gmail.com
