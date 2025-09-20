@@ -1,7 +1,17 @@
-Hi there, I'm Tejaswini Todkar 👋
+# Hi there, I'm Tejaswini Todkar 👋
+
+---- 
+
 ⚡️ A little about me
 I'm a developer with a passion to learn and contribute. When I'm not coding, you can find me watching Anime and K-dramas or reading webtoons or eating tasty food >o<!.
 
+<body>
+    <br>
+    <p>Like Wi-Fi in a coffee shop, you can always catch a signal with me - strong, reliable, and ready for a good connection!😉</p>
+    <br>
+    <p><span id="profile-view-count"></span></p>
+    <button id="increment-button"></button>
+</body>
 
 🎨 My Anime Vibe
 <p align="center">
