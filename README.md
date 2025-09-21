@@ -13,7 +13,6 @@ When I'm not coding, you can find me watching Anime and K-dramas or reading webt
     <p><span id="profile-view-count"></span></p>
     <button id="increment-button"></button>
 </body>
-
 🎨 My Anime Vibe
 <p align="center">
 <img width="200" height="262" alt="image" src="https://github.com/user-attachments/assets/33e1aea4-451d-4a0d-bbf1-80da37526c83" />
@@ -22,7 +21,7 @@ When I'm not coding, you can find me watching Anime and K-dramas or reading webt
 
 <br>
 <br>
-<img width="320" height="500" alt="image" src="https://github.com/user-attachments/assets/440ed3e1-6771-4fab-9f50-03e2811b68ae" />
+<img width="320" height="400" alt="image" src="https://github.com/user-attachments/assets/440ed3e1-6771-4fab-9f50-03e2811b68ae" />
 
 </p>
 
